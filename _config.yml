@@ -1,0 +1,14 @@
+layout_spectrum: 0.6673928909003735
+typography_spectrum: 0.10192728415131569
+color:
+  brandStrength: 0.6831562626175582
+  lightness: 0.2449937923811376
+  saturation: 0.1747962054796517
+  rhythmicContrast: 0.5208018945995718
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Hypercube Test
